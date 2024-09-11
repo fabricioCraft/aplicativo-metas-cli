@@ -1,24 +1,15 @@
-// objects
-
-let meta = {
-    value: 'ler um livro por mês',
-    checked: false,
-    isChecked: (info) => {
-        console.log(info)
+const start = () => {
+    while(true){
+        let opção = 'sair'
+        switch(opção){
+            case 'cadastrar':
+                console.log('vamos cadastrar')
+                break
+            case 'listar':
+                console.log('vamos listar')
+                break
+            case 'sair':
+                return
+        }
     }
 }
-
-let metas = [
-    meta,
-    {
-        value: 'caminhas 20 minutos todos os dias',
-        checked: false
-    }
-]
-
-metas.isChecked(metas.value)
-
-// function
-const criarMetas = () => { }
-
-function criarMetas() { }
