@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [x] Comentários
+- Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -34,12 +34,14 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operador de atribuição de valor =
-- [x] Operador de concatenação +
+- [x] Operador de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: ==
 
 ## Condicionais 
 
 - [x] Switch
+- [x] if/else
 
 ## Módulos em Node.js
 
