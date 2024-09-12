@@ -1,3 +1,5 @@
+const { default: inquirer } = require("inquirer")
+
 const start = () => {
     while (true){
         let opcao = 'sair'
