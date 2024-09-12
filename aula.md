@@ -36,7 +36,7 @@ Apresentar os dados
 
 - [x] Operador de atribuição de valor: =
 - [x] Operador de concatenação: +
-- [x] Operadores de comparação: ==
+- [x] Operadores de comparação: ===
 
 ## Condicionais 
 
