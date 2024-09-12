@@ -56,4 +56,3 @@ Apresentar os dados
 
 - [x] while
 
-## 
