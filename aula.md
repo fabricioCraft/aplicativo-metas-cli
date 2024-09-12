@@ -37,6 +37,7 @@ Apresentar os dados
 - [x] Operador de atribuição de valor: =
 - [x] Operador de concatenação: +
 - [x] Operadores de comparação: ===
+- [x] Spread operattor: ...
 
 ## Condicionais 
 
@@ -55,4 +56,24 @@ Apresentar os dados
 # Estrutura de repetição
 
 - [x] while
+
+# Estrutura de dados
+
+### Arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Método de array: push, [find, forEach, filter] : HOF (Higher Order Function)
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions:
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function
+
 
