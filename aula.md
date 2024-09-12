@@ -51,3 +51,7 @@ Apresentar os dados
 ## Programação assíncrona e Promises:
 
 - [x] Uso de funções assíncronas (async/await)
+
+# Estrutura de repetição
+
+- [x] while
